@@ -1,2 +1,2 @@
-# dtsproe18-master
+# dtsproe18
 Simple Website display
